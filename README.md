@@ -4,7 +4,7 @@ This repository include my answers and solutions for the Udacity course "Intro t
 >**Note:** Some of the answers include snippets from other student's. Also, as this course **grants no diploma**, the uploaded solutions in no way contribute for **Academic Dishonesty** and are meant purely as a reference or guide.
 
 ## References 
-- The original repository for the course projects can be found in the following [link](https://github.com/udacity/ud120-projects)
+- The original repository for the course projects can be found in the following [link](https://github.com/udacity/ud120-projects). In such link you may find the unaltered original files.
 - The **FREE** course link for subscription in udacity can be found in this [link](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 
 Among the consulted repositories for the mini projects are the following:
