@@ -21,6 +21,7 @@ Another alternative to install the environment from the `requirements.txt`file, 
 1. First create, name and activate a virtual environment with python 2.7(In the following [link](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/) you can find the process example.
 2. Once you have active your environment proceed to install with the following instruction: 
 >`conda install --file requirements.txt`
+
 >**Note**.- be careful with the working folder location for the file addressing.
 
 ## References 
