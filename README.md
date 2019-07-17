@@ -4,7 +4,7 @@ This repository include my answers and solutions for the Udacity course "Intro t
 >**Note:** Some of the answers include snippets from other student's. Also, as this course **grants no diploma**, the uploaded solutions in no way contribute for **Academic Dishonesty** and are meant purely as a reference or guide.
 
 ## Getting Started
-To install and run this projects, you may check the [environment_used](environment_used) folder, where the complete environment based on Python 2.7 () is included, with the corresponding installation instructions and comands considering an anaconda installation in windows.
+To install and run this projects, you may check the [environment_used](environment_used) folder, where the complete environment based on Python 2.7 is included, with the corresponding installation instructions and commands considering an anaconda installation in windows.
 
 ### Prerequisites
 As specified by the course instructors, the environment is based on python 2.7.
